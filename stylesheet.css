@@ -1,0 +1,15 @@
+div{border: 2px solid blue;
+  background-color: green; opacity: 70%;
+  text-align: center;
+  height: 100px;
+  width: 50px
+margin: 60px}
+ h1{padding: 20px;
+color:lightgrey;
+font-size: 40px; font-weight: bold;;}
+p{font-size: 18;
+font-weight:
+bold;
+text-align:center;}
+span{border:3px solid black;
+  color: orange}
